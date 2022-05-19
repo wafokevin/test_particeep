@@ -1,0 +1,18 @@
+.App-content {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  display: flex;
+  flex: 0 1 auto;
+}
+
+.App-list {
+  display: flex;
+  flex: 1 1 auto;
+  padding: 2rem;
+  margin-bottom: 1rem;
+  overflow-y: auto;
+}
